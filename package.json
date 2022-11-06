@@ -1,0 +1,20 @@
+{
+    "name": "MyPortfolio",
+    "version": "0.1",
+    "description": "",
+    "main": "index.js",
+    "repository": "",
+    "author": "Manjeet",
+    "license": "",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.2.0",
+        "@popperjs/core": "^2.11.6",
+        "bootstrap": "^5.2.1",
+        "jquery": "^3.6.1",
+        "yarn": "^1.22.19"
+    },
+    "devDependencies": {
+        "@types/jquery": "^3.5.14",
+        "lite-server": "2.3"
+    }
+}
